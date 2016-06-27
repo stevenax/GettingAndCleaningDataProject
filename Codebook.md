@@ -32,6 +32,8 @@ The set of variables that were estimated from these signals are:
 
 'XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
+The full measurement names are as follows:
+
 * tBodyAccMeanX 
 * tBodyAccMeanY 
 * tBodyAccMeanZ
